@@ -2,7 +2,7 @@
 
 # Glance
 
-Since [version 2.30](../History.md), it is possible to ovverride the text displayed on the Glance view. This page explains how to customise the text.
+Since [version 2.30](../History.md), it is possible to override the text displayed on the Glance view. This page explains how to customise the text.
 
 ## Status View
 
@@ -11,7 +11,6 @@ The status view displays the accessibility of HomeAssistant API to indicate if t
 <img src="../images/Venu2_glance_default.png" width="200" title="Venu 2 Default Glance"/>
 
 When API is inaccessible the field will turn red.
-
 
 ## Customised View
 
