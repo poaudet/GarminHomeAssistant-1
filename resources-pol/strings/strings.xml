@@ -96,8 +96,10 @@
   <string id="SettingsUserHttpHeader">Dostarczony przez użytkownika nagłówek HTTP</string>
   <string id="SettingsUserHttpHeaderDescription">Niektóre instalacje Home Assistant wymagają
     określenia niestandardowego nagłówka HTTP w celu prawidłowego działania.</string>
-  <string id="SettingsUserHttpHeaderName">Dostarczony przez użytkownika nagłówek HTTP: Nazwa</string>
-  <string id="SettingsUserHttpHeaderValue">Dostarczony przez użytkownika nagłówek HTTP: Wartość</string>
+  <string id="SettingsUserHttpHeader1Name">Dostarczony przez użytkownika nagłówek HTTP 1: Nazwa</string>
+  <string id="SettingsUserHttpHeader1Value">Dostarczony przez użytkownika nagłówek HTTP 1: Wartość</string>
+  <string id="SettingsUserHttpHeader2Name">Dostarczony przez użytkownika nagłówek HTTP 2: Nazwa</string>
+  <string id="SettingsUserHttpHeader2Value">Dostarczony przez użytkownika nagłówek HTTP 2: Wartość</string>
   <string id="SettingsClearWebhookId">Połącz ponownie z Home Assistant (wyczyść ID webhooka, patrz
     przewodnik rozwiązywania problemów).</string>
   <string id="SettingsWebhookId">(Tylko do odczytu) Identyfikator webhooka utworzony przez

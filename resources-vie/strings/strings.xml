@@ -92,8 +92,10 @@
   <string id="SettingsUserHttpHeader">Tiêu đề HTTP do người dùng cung cấp</string>
   <string id="SettingsUserHttpHeaderDescription">Một số cài đặt Home Assistant yêu cầu chỉ định tiêu
     đề HTTP tùy chỉnh để hoạt động.</string>
-  <string id="SettingsUserHttpHeaderName">Tiêu đề HTTP do người dùng cung cấp: Tên</string>
-  <string id="SettingsUserHttpHeaderValue">Tiêu đề HTTP do người dùng cung cấp: Giá trị</string>
+  <string id="SettingsUserHttpHeader1Name">Tiêu đề HTTP do người dùng cung cấp 1: Tên</string>
+  <string id="SettingsUserHttpHeader1Value">Tiêu đề HTTP do người dùng cung cấp 1: Giá trị</string>
+  <string id="SettingsUserHttpHeader2Name">Tiêu đề HTTP do người dùng cung cấp 2: Tên</string>
+  <string id="SettingsUserHttpHeader2Value">Tiêu đề HTTP do người dùng cung cấp 2: Giá trị</string>
   <string id="SettingsClearWebhookId">Kết nối lại với Home Assistant (Xóa ID Webhook, xem Hướng dẫn
     khắc phục sự cố).</string>
   <string id="SettingsWebhookId">(Chỉ đọc) ID webhook được tạo bởi thiết bị để cập nhật dịch vụ nền.

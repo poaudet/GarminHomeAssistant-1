@@ -81,8 +81,10 @@
   <string id="SettingsBatteryLevelRefreshRate">Intervall (in Minuten), in dem der Hintergrunddienst die Daten erneut senden soll.</string>
   <string id="SettingsUserHttpHeader">Zusätzlicher HTTP-Header</string>
   <string id="SettingsUserHttpHeaderDescription">Einige Home Assistant-Installationen erfordern die Angabe eines benutzerdefinierten HTTP-Headers, um zu funktionieren.</string>
-  <string id="SettingsUserHttpHeaderName">Zusätzlicher HTTP-Header: Name</string>
-  <string id="SettingsUserHttpHeaderValue">Zusätzlicher HTTP-Header: Value</string>
+  <string id="SettingsUserHttpHeader1Name">Zusätzlicher HTTP-Header 1: Name</string>
+  <string id="SettingsUserHttpHeader1Value">Zusätzlicher HTTP-Header 1: Wert</string>
+  <string id="SettingsUserHttpHeader2Name">Zusätzlicher HTTP-Header 2: Name</string>
+  <string id="SettingsUserHttpHeader2Value">Zusätzlicher HTTP-Header 2: Wert</string>
   <string id="SettingsClearWebhookId">Neu mit Home Assistant verbinden (Webhook-ID löschen, siehe Fehlerbehebungshandbuch).</string>
   <string id="SettingsWebhookId">(Nur lesen) Die vom Gerät erstellte Webhook-ID für Hintergrund-Updates. Kann zum Debuggen benötigt werden.</string>
 </strings>

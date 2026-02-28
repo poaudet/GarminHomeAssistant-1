@@ -81,8 +81,10 @@
   <string id="SettingsBatteryLevelRefreshRate">Скоростта на опресняване (в минути), при която фоновата услуга трябва да повтаря изпращането на данни.</string>
   <string id="SettingsUserHttpHeader">Потребителска HTTP заглавка</string>
   <string id="SettingsUserHttpHeaderDescription">Някои инсталации на Home Assistant изискват специфицирането на персонализирана HTTP заглавка, за да функционират.</string>
-  <string id="SettingsUserHttpHeaderName">Потребителска HTTP заглавка: Име</string>
-  <string id="SettingsUserHttpHeaderValue">Потребителска HTTP заглавка: Стойност</string>
+  <string id="SettingsUserHttpHeader1Name">Потребителска HTTP заглавка 1: Име</string>
+  <string id="SettingsUserHttpHeader1Value">Потребителска HTTP заглавка 1: Стойност</string>
+  <string id="SettingsUserHttpHeader2Name">Потребителска HTTP заглавка 2: Име</string>
+  <string id="SettingsUserHttpHeader2Value">Потребителска HTTP заглавка 2: Стойност</string>
   <string id="SettingsClearWebhookId">Свържете се отново с Home Assistant (изчистване на Webhook ID, вижте ръководството за отстраняване на неизправности).</string>
   <string id="SettingsWebhookId">(Само за четене) Webhook ID, създаден от устройството за актуализации на фоновите услуги. Може да ви е необходим за отстраняване на грешки.</string>
 </strings>

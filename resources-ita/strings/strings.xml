@@ -100,8 +100,10 @@
   <string id="SettingsUserHttpHeader">Intestazione HTTP fornita dall'utente</string>
   <string id="SettingsUserHttpHeaderDescription">Alcune installazioni di Home Assistant richiedono
     la specifica di un'intestazione HTTP personalizzata per funzionare.</string>
-  <string id="SettingsUserHttpHeaderName">Intestazione HTTP fornita dall'utente: Nome</string>
-  <string id="SettingsUserHttpHeaderValue">Intestazione HTTP fornita dall'utente: Valore</string>
+  <string id="SettingsUserHttpHeader1Name">Intestazione HTTP 1 fornita dall'utente: Nome</string>
+  <string id="SettingsUserHttpHeader1Value">Intestazione HTTP 1 fornita dall'utente: Valore</string>
+  <string id="SettingsUserHttpHeader2Name">Intestazione HTTP 2 fornita dall'utente: Nome</string>
+  <string id="SettingsUserHttpHeader2Value">Intestazione HTTP 2 fornita dall'utente: Valore</string>
   <string id="SettingsClearWebhookId">Riconnettiti a Home Assistant (cancella ID Webhook, vedi Guida
     alla risoluzione dei problemi).</string>
   <string id="SettingsWebhookId">(Solo lettura) L'ID WebHook creato dal dispositivo per gli

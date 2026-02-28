@@ -94,8 +94,10 @@
   <string id="SettingsUserHttpHeader">Наданий користувачем HTTP-заголовок</string>
   <string id="SettingsUserHttpHeaderDescription">Деякі інсталяції Home Assistant вимагають
     зазначення спеціального HTTP-заголовка для функціонування.</string>
-  <string id="SettingsUserHttpHeaderName">Наданий користувачем HTTP-заголовок: Ім'я</string>
-  <string id="SettingsUserHttpHeaderValue">Наданий користувачем HTTP-заголовок: Значення</string>
+  <string id="SettingsUserHttpHeader1Name">Наданий користувачем HTTP-заголовок 1: Ім'я</string>
+  <string id="SettingsUserHttpHeader1Value">Наданий користувачем HTTP-заголовок 1: Значення</string>
+  <string id="SettingsUserHttpHeader2Name">Наданий користувачем HTTP-заголовок 2: Ім'я</string>
+  <string id="SettingsUserHttpHeader2Value">Наданий користувачем HTTP-заголовок 2: Значення</string>
   <string id="SettingsClearWebhookId">Повторне підключення до Home Assistant (очистити ID вебхука,
     див. Посібник з усунення несправностей).</string>
   <string id="SettingsWebhookId">(Тільки для читання) ID вебхука, створений пристроєм для оновлень

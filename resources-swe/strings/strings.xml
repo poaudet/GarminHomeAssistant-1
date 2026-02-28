@@ -92,8 +92,10 @@
   <string id="SettingsUserHttpHeader">Användardefinierat HTTP-huvud</string>
   <string id="SettingsUserHttpHeaderDescription">Vissa Home Assistant-installationer kräver att ett
     anpassat HTTP-huvud anges för att fungera.</string>
-  <string id="SettingsUserHttpHeaderName">Användardefinierat HTTP-huvud: Namn</string>
-  <string id="SettingsUserHttpHeaderValue">Användardefinierat HTTP-huvud: Värde</string>
+  <string id="SettingsUserHttpHeader1Name">Användardefinierat HTTP-huvud 1: Namn</string>
+  <string id="SettingsUserHttpHeader1Value">Användardefinierat HTTP-huvud 1: Värde</string>
+  <string id="SettingsUserHttpHeader2Name">Användardefinierat HTTP-huvud 2: Namn</string>
+  <string id="SettingsUserHttpHeader2Value">Användardefinierat HTTP-huvud 2: Värde</string>
   <string id="SettingsClearWebhookId">Återanslut till Home Assistant (rensa Webhook-ID, se
     Felsökningsguide).</string>
   <string id="SettingsWebhookId">(Skrivskyddad) Webhook-ID som skapats av enheten för
