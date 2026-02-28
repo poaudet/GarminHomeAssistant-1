@@ -4,7 +4,6 @@
 
 Since [version 2.30](../History.md), it is possible to ovverride the text displayed on the Glance view. This page explains how to customise the text.
 
-
 ## Default View
 
 The default view has always been to display the status of the menu and API availability to indicate if there's a problem. This view has now been updated to be more colourful.
@@ -12,7 +11,6 @@ The default view has always been to display the status of the menu and API avail
 <img src="../images/Venu2_glance_default.png" width="200" title="Venu 2 Default Glance"/>
 
 When either the API or the menu file is inaccessible, the fields will turn red.
-
 
 ## Customised View
 
@@ -67,7 +65,6 @@ It is possible to revert to the default glance content without deleting the temp
 ```
 
 So the glance view object has a `type` field with two possible values: `info` and `status`. When the type is `status` the `content` field is not required.
-
 
 ## Displayed Errors
 
