@@ -43,15 +43,17 @@ class HomeAssistantNumericPicker extends WatchUi.Picker {
             step = 1.0;
         }
 
-        WatchUi.Picker.initialize({
-            :title    => new WatchUi.Text({
+        WatchUi.Picker.initialize(
+            new WatchUi.Text({
                 :text => haItem.getLabel(),
                 :locX => WatchUi.LAYOUT_HALIGN_CENTER,
                 :locY => WatchUi.LAYOUT_VALIGN_BOTTOM
             }),
-            :pattern  => [factory],
-            :defaults => [((val - min) / step).toNumber()]
-        });
+            [factory],
+            {
+                :defaults => [((val - min) / step).toNumber()]
+            }
+        );
     }
 
     //! Called when the user has completed picking.
