@@ -18,7 +18,7 @@ With version 3.0 onwards the application now includes the ability to temporarily
 
 5. On some Garmin devices, the HTTPS handshake is performed using **TLS 1.2**. If your server or proxy enforces a higher minimum (e.g., TLS 1.3), you will encounter an SSL handshake error with the message:  
 
-   ```
+   ```text
    HTTP request returned error code = 0
    ```
 
