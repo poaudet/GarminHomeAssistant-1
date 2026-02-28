@@ -30,7 +30,6 @@ The authors of the Garmin HomeAssistant application do not use, and hence do not
 
 With thanks to Lars Pöpperl ([@tispokes](https://github.com/tispokes)) for contributing to this solution.
 
-
 ## References
 
 * [Using Cloudflare ZeroTrust and mTLS to securely access HomeAssistant via the internet](https://kcore.org/2024/06/28/using-cloudflare-zerotrust-and-mtls-with-home-assistant-via-the-internet/)
