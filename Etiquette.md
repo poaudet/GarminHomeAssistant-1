@@ -22,7 +22,7 @@ Thank you to all those who have provided positive feedback, code and language tr
 
 > [!IMPORTANT]
 > **The intended audience for this application are those comfortable with configuring a HomeAssistant** (e.g. editing the YAML configuration files) and debugging why URLs don't work. It does not require programming skills, but the menu is configured via JSON which feels like "coding" (more like "describing"). If you are not comfortable with this relatively low level of configuration, you may like to try other Garmin applications instead.
-
+>
 > [!IMPORTANT]
 > Remember, you are expecting to define a customised menu making use of several options using your Home Assistant's custom entities on a small (portable) device. **There is no "_simple_" way to configure the menu with the ever increasing options demanded by the user community.** Was your Home Assistant trivial to setup? No!
 >
@@ -392,9 +392,8 @@ Two words. Perhaps too lazy to consider why others gave rave reviews and ponder 
 
 <img src="images/etiquette/2026-01-21 GHA_Bad_Review.png" width="70%" title="Two words">
 
-<hr>
+---
 
 Blaming the wrong application. Just rude. Please get your facts straight. And it was such a simple workaround for the Garmin Connect IQ app bug.
 
 <img src="images/etiquette/2025-11-19%20GHA_Bad_Review.png" width="85%" title="Misplaced blame">
-s

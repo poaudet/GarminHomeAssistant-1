@@ -1,6 +1,5 @@
 [Home](../README.md) | [Switches](Switches.md) | [Actions](Actions.md) | [Templates](Templates.md) | [Numeric](Numeric.md) | [Glance](Glance.md) | [Background Service](../BackgroundService.md) | [Wi-Fi](../Wi-Fi.md) | [HTTP Headers](../HTTP_Headers.md) | [Trouble Shooting](../TroubleShooting.md) | [Version History](../HISTORY.md)
 
-
 # Actions
 
 Two simple examples using a scene and a cover as `tap` menu items.
@@ -47,8 +46,8 @@ For example:
     "confirm": true
   }
 }
-
 ```
+
 The `confirm` field may contain a string instead of a Boolean in order to provide a custom message to display instead of the default "Sure?" text.
 
 ```json

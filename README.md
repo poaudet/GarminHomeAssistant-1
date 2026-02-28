@@ -11,6 +11,7 @@ The application is designed around a simple scrollable menu where menu items hav
 **The intended audience for this application are those comfortable with configuring a HomeAssistant** (e.g. editing the YAML configuration files) and debugging why URLs don't work. It does not require programming skills, but the menu is configured via JSON which feels like "coding" (more like "describing"). If you are not comfortable with this relatively low level of configuration, you may like to try other Garmin applications instead.
 
 **If you are struggling with getting the application to work, please consult the [troubleshooting guide](TroubleShooting.md) first.** Please also be aware of the [etiquette](Etiquette.md) the developers expect before:
+
 1. Reaching out for help, in short read the instructions.
 2. Reviewing the application publicly, in short be sure of your claims.
 
@@ -62,6 +63,7 @@ The following table lists the differences in functionality between the two. The 
 > Remember, you are expecting to define a customised menu making use of several options using your Home Assistant's custom entities on a small (portable) device. **There is no "_simple_" way to configure the menu with the ever increasing options demanded by the user community.** Was your Home Assistant trivial to setup? No!
 >
 > Therefore as developers we have two options:
+>
 > 1. Assistance via menu driven configuration with nested menus on a small screen whose implementation would expand the code beyond the capacity of smaller devices, or
 > 2. As we have opted here, for assistance via some external configuration that is driven by code and can be authored using a more fully functional desktop or laptop PC.
 >
@@ -314,6 +316,7 @@ A future move to v3.x will remove support for all deprecated JSON elements to si
 ## Editing the JSON file
 
 You have options. The first is what we use.
+
 1. **Best!**  Use the GarminHomeAssistant [Web-based Editor](https://house-of-abbey.github.io/GarminHomeAssistant/web/) which includes `entity` and `action` name completion and validation by fetching data from your own HomeAssistant instance. _Pretty  nifty eh?_ The other method listed below do not add this convenience and checking. NB. This has been tested in Microsoft Edge, Chrome and Firefox.
 2. Use the [Studio Code Server](https://community.home-assistant.io/t/home-assistant-community-add-on-visual-studio-code/107863) addon for HomeAssistant. You can then edit your JSON file in place.
 3. Locally installed VSCode, or if not installed, try
@@ -369,6 +372,7 @@ You may choose to cache your menu definition on your device in order to reduce t
 **Summary:** The two cache options are therefore distinct, the **first is a manual** forced refresh (the old way). The menu is refreshed on start up and no restart is required. The **second enables automatic checking** after starting and after presenting a usable menu with no extra delay but then any detected changes require a restart.
 
 Whilst it would be a smoother experience, there are no plans to make the menu definition update dynamically recreate the rendered menu items without a restart because:
+
 1. Re-rendering the menu could change the selected item just as you action it.
 2. V3.3 proved that older devices are now reaching their memory limits. If you have an old device with limited memory to spare you will probably find the App disables the automatic method for you. If your device crashes with this option turned on, best turn it off manually and let me know via a [Github issue](https://github.com/house-of-abbey/GarminHomeAssistant/issues). This will allow us to fine tune the conditions for insufficient memory. We will then ask you to perform a [small task to retrieve the debug information](https://developer.garmin.com/connect-iq/core-topics/debugging/) we need about memory usage.
 3. Restarting is simple for the user and simpler for the code.
