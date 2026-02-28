@@ -998,11 +998,11 @@ class HomeAssistantApp extends Application.AppBase {
         mIsApp      = false; // A bit unnecessary given the default
         mApiStatus  = WatchUi.loadResource($.Rez.Strings.Checking) as Lang.String;
         Settings.update();
+        glanceTemplate();
         updateStatus();
         mGlanceTimer = new Timer.Timer();
         mGlanceTimer.start(method(:updateStatus), Globals.scApiBackoffMs, true);
         // Although this is now known immediately, wait before displaying so the status can be seen first.
-        glanceTemplate();
         return [new HomeAssistantGlanceView(self)];
     }
 
