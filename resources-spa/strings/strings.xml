@@ -89,8 +89,6 @@
   <string id="SettingsTextAlign">Alineación del menú: izquierda (desactivado) o derecha (activado).</string>
   <string id="SettingsLeftToRight">De izquierda a derecha</string>
   <string id="SettingsRightToLeft">De derecha a izquierda</string>
-  <string id="SettingsWidgetStart">(Solo widget) Iniciar automáticamente la aplicación desde el
-    widget sin esperar un toque.</string>
   <string id="SettingsEnableBatteryLevel">Habilitar el servicio en segundo plano para enviar el
     nivel de batería del dispositivo, la ubicación y (si es compatible) los datos de actividad a
     Home Assistant.</string>

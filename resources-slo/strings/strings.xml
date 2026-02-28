@@ -82,8 +82,6 @@
   <string id="SettingsTextAlign">Zarovnanie menu vľavo (vypnuté) alebo vpravo (zapnuté).</string>
   <string id="SettingsLeftToRight">Zľava doprava</string>
   <string id="SettingsRightToLeft">Sprava doľava</string>
-  <string id="SettingsWidgetStart">(Iba widget) Automaticky spustí aplikáciu z miniaplikácie bez
-    čakania na ťuknutie.</string>
   <string id="SettingsEnableBatteryLevel">Povoľte službu na pozadí, ktorá bude do Home Assistenta odosielať údaje o stave batérie zariadenia, polohe a (ak je podporované) o aktivite.</string>
   <string id="SettingsBatteryLevelRefreshRate">Frekvencia obnovenia (v minútach), pri ktorej by
     služba na pozadí mala opakovať odosielanie údajov.</string>

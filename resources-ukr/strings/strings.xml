@@ -85,8 +85,6 @@
   <string id="SettingsTextAlign">Зліва (вимкнено) або праворуч (увімкнено) вирівнювання меню.</string>
   <string id="SettingsLeftToRight">Зліва направо</string>
   <string id="SettingsRightToLeft">Справа наліво</string>
-  <string id="SettingsWidgetStart">(Тільки віджет) Автоматично запускати програму з віджета, не
-    чекаючи натискання.</string>
   <string id="SettingsEnableBatteryLevel">Увімкнути фонову службу для надсилання рівня заряду
     батареї пристрою, місцезнаходження та (якщо підтримується) даних активності до Home Assistant.</string>
   <string id="SettingsBatteryLevelRefreshRate">Частота оновлення (у хвилинах), з якою фонова служба

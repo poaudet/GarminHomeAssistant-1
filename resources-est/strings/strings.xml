@@ -82,8 +82,6 @@
   <string id="SettingsTextAlign">Vasak (väljas) või parem (sees) menüü joondus.</string>
   <string id="SettingsLeftToRight">Vasakult paremale</string>
   <string id="SettingsRightToLeft">Paremale vasakule</string>
-  <string id="SettingsWidgetStart">(Ainult vidin) Käivitage rakendus vidinast automaatselt, ilma
-    puudutust ootamata.</string>
   <string id="SettingsEnableBatteryLevel">Luba taustateenusel saata seadme aku tase, asukoht ja (kui
     toetatud) tegevusandmed Home Assistantile.</string>
   <string id="SettingsBatteryLevelRefreshRate">Värskendussagedus (minutites), millega taustateenus

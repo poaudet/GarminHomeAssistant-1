@@ -79,8 +79,6 @@
   <string id="SettingsTextAlign">יישור תפריט: שמאל (כבוי) או ימין (מופעל).</string>
   <string id="SettingsLeftToRight">משמאל לימין</string>
   <string id="SettingsRightToLeft">מימין לשמאל</string>
-  <string id="SettingsWidgetStart">(ווידג'ט בלבד) הפעל אוטומטית את היישום מהווידג'ט מבלי לחכות
-    להקשה.</string>
   <string id="SettingsEnableBatteryLevel">אפשר לשירות הרקע לשלוח את רמת סוללת המכשיר, מיקום ו(אם
     נתמך) נתוני פעילות אל Home Assistant.</string>
   <string id="SettingsBatteryLevelRefreshRate">קצב הרענון (בדקות) שבו שירות הרקע ישלח נתונים באופן

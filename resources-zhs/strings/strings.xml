@@ -76,7 +76,6 @@
   <string id="SettingsTextAlign">菜单对齐：左对齐（关闭）或右对齐（开启）。</string>
   <string id="SettingsLeftToRight">从左到右</string>
   <string id="SettingsRightToLeft">从右到左</string>
-  <string id="SettingsWidgetStart">（仅小部件）自动从小部件启动应用程序，而无需等待点击。</string>
   <string id="SettingsEnableBatteryLevel">启用后台服务以将设备电池电量、位置以及（如果支持）活动数据发送到 Home Assistant。</string>
   <string id="SettingsBatteryLevelRefreshRate">后台服务应重复发送数据的刷新率（分钟）。</string>
   <string id="SettingsUserHttpHeader">用户提供的 HTTP 标头</string>

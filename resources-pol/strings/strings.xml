@@ -87,8 +87,6 @@
   <string id="SettingsTextAlign">Wyrównanie menu: lewe (wył.) lub prawe (wł.).</string>
   <string id="SettingsLeftToRight">Od lewej do prawej</string>
   <string id="SettingsRightToLeft">Od prawej do lewej</string>
-  <string id="SettingsWidgetStart">(Tylko widżet) Automatyczne uruchamianie aplikacji z widżetu bez
-    oczekiwania na dotknięcie.</string>
   <string id="SettingsEnableBatteryLevel">Włącz usługę w tle, aby wysyłać poziom baterii urządzenia,
     lokalizację i (jeśli obsługiwane) dane o aktywności do Home Assistant.</string>
   <string id="SettingsBatteryLevelRefreshRate">Częstotliwość odświeżania (w minutach), z jaką usługa

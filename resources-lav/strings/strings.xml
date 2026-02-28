@@ -84,8 +84,6 @@
   <string id="SettingsTextAlign">Kreisā (izslēgta) vai labā (ieslēgta) izvēlnes izlīdzināšana.</string>
   <string id="SettingsLeftToRight">No kreisās uz labo pusi</string>
   <string id="SettingsRightToLeft">No labās uz kreiso pusi</string>
-  <string id="SettingsWidgetStart">(Tikai logrīks) Automātiski startēt lietojumprogrammu no logrīka,
-    negaidot pieskārienu.</string>
   <string id="SettingsEnableBatteryLevel">Iespējojiet fona pakalpojumu, lai nosūtītu ierīces
     akumulatora līmeni, atrašanās vietu un (ja tiek atbalstīti) aktivitātes datus uz Home Assistant.</string>
   <string id="SettingsBatteryLevelRefreshRate">Atsvaidzināšanas ātrums (minūtēs), kurā fona

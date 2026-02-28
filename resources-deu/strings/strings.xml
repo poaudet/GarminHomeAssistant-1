@@ -76,7 +76,6 @@
   <string id="SettingsTextAlign">Menüausrichtung: Links (aus) oder Rechts (ein).</string>
   <string id="SettingsLeftToRight">Von links nach rechts</string>
   <string id="SettingsRightToLeft">Von rechts nach links</string>
-  <string id="SettingsWidgetStart">(Nur Widget) App automatisch aus dem Widget starten, ohne auf Tippen zu warten.</string>
   <string id="SettingsEnableBatteryLevel">Hintergrunddienst aktivieren, um Akkustand, Standort und (falls unterstützt) Aktivitätsdaten an Home Assistant zu senden.</string>
   <string id="SettingsBatteryLevelRefreshRate">Intervall (in Minuten), in dem der Hintergrunddienst die Daten erneut senden soll.</string>
   <string id="SettingsUserHttpHeader">Zusätzlicher HTTP-Header</string>

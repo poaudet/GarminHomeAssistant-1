@@ -84,8 +84,6 @@
   <string id="SettingsTextAlign">Venstre (av) eller høyre (på) menyjustering.</string>
   <string id="SettingsLeftToRight">Fra venstre til høyre</string>
   <string id="SettingsRightToLeft">Høyre til venstre</string>
-  <string id="SettingsWidgetStart">(Bare widget) Start automatisk applikasjonen fra widgeten uten å
-    vente på et trykk.</string>
   <string id="SettingsEnableBatteryLevel">Aktiver bakgrunnstjenesten til å sende enhetens
     batterinivå, posisjon og (hvis støttet) aktivitetsdata til Home Assistant.</string>
   <string id="SettingsBatteryLevelRefreshRate">Oppdateringsfrekvensen (i minutter) som

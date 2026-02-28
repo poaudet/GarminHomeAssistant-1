@@ -85,8 +85,6 @@
   <string id="SettingsTextAlign">Vasen (pois päältä) tai oikea (on) valikon kohdistus.</string>
   <string id="SettingsLeftToRight">Vasemmalta oikealle</string>
   <string id="SettingsRightToLeft">Oikealta vasemmalle</string>
-  <string id="SettingsWidgetStart">(Vain widget) Käynnistä sovellus automaattisesti widgetistä
-    odottamatta napautusta.</string>
   <string id="SettingsEnableBatteryLevel">Ota taustapalvelu käyttöön laitteen akkutason, sijainnin
     ja (jos tuettu) aktiivisuustietojen lähettämiseksi Home Assistantille.</string>
   <string id="SettingsBatteryLevelRefreshRate">Päivitysnopeus (minuuteissa), jolla taustapalvelun

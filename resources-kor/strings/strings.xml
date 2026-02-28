@@ -77,7 +77,6 @@
   <string id="SettingsTextAlign">왼쪽(꺼짐) 또는 오른쪽(켜짐) 메뉴 정렬.</string>
   <string id="SettingsLeftToRight">왼쪽에서 오른쪽</string>
   <string id="SettingsRightToLeft">오른쪽에서 왼쪽</string>
-  <string id="SettingsWidgetStart">(위젯 전용) 탭을 기다리지 않고 위젯에서 앱을 자동으로 시작합니다.</string>
   <string id="SettingsEnableBatteryLevel">백그라운드 서비스가 기기 배터리 잔량, 위치 및 (지원되는 경우) 활동 데이터를 Home
     Assistant로 전송하도록 활성화합니다.</string>
   <string id="SettingsBatteryLevelRefreshRate">백그라운드 서비스가 데이터를 반복 전송할 새로 고침 빈도(분).</string>

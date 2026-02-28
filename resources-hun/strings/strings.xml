@@ -85,8 +85,6 @@
   <string id="SettingsTextAlign">Menü igazítása: Balra (ki) vagy Jobbra (be).</string>
   <string id="SettingsLeftToRight">Balról jobbra</string>
   <string id="SettingsRightToLeft">Jobbról balra</string>
-  <string id="SettingsWidgetStart">(Csak widget) Az alkalmazás automatikus indítása a widgetről,
-    érintés nélkül.</string>
   <string id="SettingsEnableBatteryLevel">Engedélyezze a háttérszolgáltatásnak, hogy elküldje az
     eszköz akkumulátorának töltöttségi szintjét, helyét és (ha támogatott) tevékenységi adatait a
     Home Assistantnek.</string>

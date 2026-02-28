@@ -86,8 +86,6 @@
   <string id="SettingsTextAlign">Ευθυγράμμιση μενού: Αριστερά (απενεργοποιημένο) ή Δεξιά (ενεργό).</string>
   <string id="SettingsLeftToRight">Από αριστερά προς τα δεξιά</string>
   <string id="SettingsRightToLeft">Δεξιά προς τα αριστερά</string>
-  <string id="SettingsWidgetStart">(Μόνο widget) Αυτόματη εκκίνηση της εφαρμογής από το widget χωρίς
-    να περιμένετε άγγιγμα.</string>
   <string id="SettingsEnableBatteryLevel">Ενεργοποιήστε την υπηρεσία παρασκηνίου για την αποστολή
     της στάθμης μπαταρίας της συσκευής, της τοποθεσίας και (αν υποστηρίζονται) δεδομένων
     δραστηριότητας στο Home Assistant.</string>

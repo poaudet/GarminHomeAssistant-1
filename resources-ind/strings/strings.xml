@@ -85,8 +85,6 @@
   <string id="SettingsTextAlign">Penjajaran Menu Kiri (mati) atau Kanan (hidup).</string>
   <string id="SettingsLeftToRight">Kiri ke kanan</string>
   <string id="SettingsRightToLeft">Kanan ke kiri</string>
-  <string id="SettingsWidgetStart">(Hanya widget) Secara otomatis memulai aplikasi dari widget tanpa
-    menunggu ketukan.</string>
   <string id="SettingsEnableBatteryLevel">Aktifkan layanan latar belakang untuk mengirim tingkat
     baterai perangkat, lokasi, dan (jika didukung) data aktivitas ke Home Assistant.</string>
   <string id="SettingsBatteryLevelRefreshRate">Tingkat refresh (dalam menit) di mana layanan latar

@@ -84,8 +84,6 @@
   <string id="SettingsTextAlign">محاذاة القائمة: لليسار (إيقاف) أو لليمين (تشغيل).</string>
   <string id="SettingsLeftToRight">من اليسار إلى اليمين</string>
   <string id="SettingsRightToLeft">من اليمين إلى اليسار</string>
-  <string id="SettingsWidgetStart">(عنصر واجهة المستخدم فقط) ابدأ التطبيق تلقائيًا من عنصر واجهة
-    المستخدم دون انتظار النقر.</string>
   <string id="SettingsEnableBatteryLevel">تمكين خدمة الخلفية لإرسال مستوى بطارية الجهاز والموقع
     وبيانات النشاط (إذا كانت مدعومة) إلى Home Assistant.</string>
   <string id="SettingsBatteryLevelRefreshRate">معدل التحديث (بالدقائق) الذي يجب أن تكرر فيه خدمة

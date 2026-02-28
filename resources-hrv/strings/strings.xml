@@ -84,8 +84,6 @@
   <string id="SettingsTextAlign">Poravnanje izbornika: lijevo (isključeno) ili desno (uključeno).</string>
   <string id="SettingsLeftToRight">Slijeva na desno</string>
   <string id="SettingsRightToLeft">Zdesna nalijevo</string>
-  <string id="SettingsWidgetStart">(Samo widget) Automatski pokrenite aplikaciju iz widgeta bez
-    čekanja na dodir.</string>
   <string id="SettingsEnableBatteryLevel">Omogućite pozadinsku uslugu za slanje razine baterije
     uređaja, lokacije i (ako je podržano) podataka o aktivnosti u Home Assistant.</string>
   <string id="SettingsBatteryLevelRefreshRate">Brzina osvježavanja (u minutama) u kojoj bi

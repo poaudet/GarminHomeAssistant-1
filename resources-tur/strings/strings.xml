@@ -83,8 +83,6 @@
   <string id="SettingsTextAlign">Sol (kapalı) veya sağ (açık) menü hizalaması.</string>
   <string id="SettingsLeftToRight">Soldan sağa</string>
   <string id="SettingsRightToLeft">Sağdan sola</string>
-  <string id="SettingsWidgetStart">(Yalnızca widget) Dokunmayı beklemeden uygulamayı widget'tan
-    otomatik olarak başlatın.</string>
   <string id="SettingsEnableBatteryLevel">Arka plan hizmetinin cihaz pil seviyesini, konumunu ve
     (destekleniyorsa) etkinlik verilerini Home Assistant'a göndermesini etkinleştirin.</string>
   <string id="SettingsBatteryLevelRefreshRate">Arka plan hizmetinin veri göndermeyi tekrarlayacağı
