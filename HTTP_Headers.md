@@ -20,9 +20,9 @@ If you don't know why you need these, leave them empty and ignore.
 
 Make the key strong enough!
 
-### Cloudflare WAF IP Access example
+### Cloudflare Access
 
-In order to safely allow API access, both a `cf-access-client-id` and `cf-access-client-secret` HTTP headers must be present. Essentially a username and password pair. Please note that the settings do not attempt to hide your password value with '*' characters, it should be private enough on your personal phone Connect IQ app.
+[Cloudflare Access](https://www.cloudflare.com/en-gb/sase/products/access/) is an authentication mechanism Cloudflare presents to HTTP requests before allowing access to the resources behind the requested URL. As an example, in order to safely allow API access, both a `cf-access-client-id` and `cf-access-client-secret` HTTP headers must be present. Essentially a username and password pair. Please note that the settings do not attempt to hide your password value with '*' characters, it should be private enough on your personal phone Connect IQ app.
 
 ## Support
 
